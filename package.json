@@ -1,5 +1,5 @@
 {
-  "name": "abev-api",
+  "name": "site4u-api",
   "private": true,
   "version": "1.2.0",
   "description": "A Strapi application",
@@ -23,7 +23,7 @@
     "uuid": "b9a742f6-afed-4ac0-8017-37529eb48ffd"
   },
   "engines": {
-    "node": ">=12.x.x",
+    "node": ">=12.x.x <=16.x.x",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
